@@ -19,11 +19,11 @@ It includes:
 An interactive dashboard for VanArsdel, featuring:
 
 1. Key Performance Indicators (KPIs): Displays essential KPIs and gauges.
-  
-2. Revenue and Growth Trends: Visualization of revenue and percentage growth over the years.
- 
-3. Drill-Down Analysis: Detailed segment-wise revenue analysis with drill-down capabilities.
-  
-4. Market Share by Country: A comparative analysis of market share across different countries.
-  
-5. Revenue Breakdown: Revenue distribution by country and manufacturer, including historical data and trends.
+2. 
+3. Revenue and Growth Trends: Visualization of revenue and percentage growth over the years.
+4. 
+5. Drill-Down Analysis: Detailed segment-wise revenue analysis with drill-down capabilities.
+6. 
+7. Market Share by Country: A comparative analysis of market share across different countries.
+8. 
+9. Revenue Breakdown: Revenue distribution by country and manufacturer, including historical data and trends.
